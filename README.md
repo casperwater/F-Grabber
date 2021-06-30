@@ -34,7 +34,7 @@
 
 - Just, Clone this repository -
 ```
-$ git clone git://github.com/maxwellcasper/F-Grabber.git
+$ git clone git://github.com/casperwater/F-Grabber.git
 ```
 
 - Change to cloned directory and run `fgrabber.sh` -
@@ -48,7 +48,7 @@ $ bash fgrabber.sh
 ### Run on Docker
 ```
 $ docker pull maxwellcasper/F-Grabber
-$ docker run --rm -it maxwellcasper/fgrabber
+$ docker run --rm -it casperwater/fgrabber
 ```
 
 ### Dependencies
@@ -74,5 +74,5 @@ $ docker run --rm -it maxwellcasper/fgrabber
 
 ### Find Me on :
 <p align="left">
-  <a href="https://m.me/casper0147" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
+  <a href="https://m.me/casper0714" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
 </p>
