@@ -1,5 +1,5 @@
 FROM debian:10
-LABEL MAINTAINER="https://github.com/maxwellcasper/F-Grabber"
+LABEL MAINTAINER="https://github.com/casperwater/F-Grabber"
 
 WORKDIR F-Grabber/
 ADD . /fgrabber
